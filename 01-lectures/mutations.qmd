@@ -1,0 +1,3 @@
+# Mutasyonlar
+
+Mutasyon, canlı organizmaların genetik materyali olan DNA veya RNA diziliminde meydana gelen kalıcı değişiklikler olarak tanımlanır. Bu değişiklikler, tek nükleotidin değişiminden kromozom segmentlerin büyük ölçekli yeniden düzenlenmelerine kadar çeşitlilik gösterebilir (Fitzgerald & Rosenberg, 2019). Mutasyona sahip bir organizma, mutant olarak adlandırılır (Najafi & Pezeshki, 2013). Genomik varyasyonlar, genetik materyaldeki mutasyonlar, eşeyli üreme yoluyla genlerin rekombinasyonu ve popülasyonlar arasındaki gen akışı sonucu oluşmaktadır (Güçlü vd., 2014). 
